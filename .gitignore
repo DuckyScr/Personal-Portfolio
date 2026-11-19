@@ -1,0 +1,20 @@
+.vercel
+
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Next.js output
+/.next/
+/out/
+next-env.d.ts
+*.tsbuildinfo
+
+# Local configuration and logs
+.env*
+!.env.example
+*.log
+.DS_Store
+
+# Local résumé
+/Zivotopis_*.pdf
